@@ -1,0 +1,61 @@
+.site-header {
+	background: $brand-color;
+	color: #fff;
+
+	.site-header-inner {
+		margin: 0 auto;
+		padding: $spacing-unit;
+		max-width: $content-width;
+	}
+	h1 {
+		display: inline-block;
+		margin: 0 $spacing-unit 0 0;
+		vertical-align: bottom;
+
+		a:hover,
+		a:focus {
+			opacity: .8;
+		}
+	}
+
+	nav {
+		display: inline-block;
+		vertical-align: 5px;
+
+		a {
+			display: inline-block;
+			margin-right: $spacing-unit;
+			color: #fff;
+			font-weight: bold;
+
+			&:hover,
+			&:focus {
+				color: mix(#fff, $brand-color, 80%);
+				text-decoration: none;
+			}
+		}
+	}
+}
+
+.site-footer {
+	background-color: $brand-color;
+	color: #fff;
+	margin-top: $spacing-unit * 2;
+	padding: $spacing-unit;
+	line-height: 0;
+
+	.site-footer-inner {
+		margin: 0 auto;
+		max-width: $content-width;
+	}
+
+	a {
+		display: inline-block;
+		margin-right: $spacing-unit;
+
+		&:hover,
+		&:focus {
+			opacity: .8;
+		}
+	}
+}
