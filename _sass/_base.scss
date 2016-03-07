@@ -100,16 +100,16 @@ h2 {
  * Links
  */
 a {
-	color: lighten($brand-color, 20%);
+	color: lighten($brand-color, 10%);
 	text-decoration: none;
 
 	&:visited {
-		color: adjust-hue(lighten($brand-color, 20%), 30deg);
+		color: adjust-hue(lighten($brand-color, 10%), 30deg);
 	}
 
 	&:hover,
 	&:focus {
-		color: adjust-hue(lighten($brand-color, 20%), -30deg);
+		color: adjust-hue(lighten($brand-color, 10%), -30deg);
 		text-decoration: underline;
 	}
 }
