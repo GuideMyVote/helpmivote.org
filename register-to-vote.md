@@ -2,6 +2,7 @@
 layout: page
 title: Register to Vote
 permalink: /register-to-vote/
+nav_position: 2
 description: Instructions for registering to vote in the upcoming Michigan election.
 ---
 

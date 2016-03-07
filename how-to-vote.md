@@ -2,6 +2,7 @@
 layout: page
 title: Where and How Do I Vote?
 permalink: /how-to-vote/
+nav_position: 1
 description: Information about where and how to vote in the upcoming Michigan election.
 ---
 
