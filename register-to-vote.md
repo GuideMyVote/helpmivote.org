@@ -6,7 +6,7 @@ nav_position: 2
 description: Instructions for registering to vote in the upcoming Michigan election.
 ---
 
-To be eligible for the March 8, 2016 election, you had to be registered by February 8, 2016. However, register today to make sure you're registered for the next election!
+Register today to make sure you can vote in future elections! (Typically you need to register up to a month before an election to be eligible to vote. Sometimes you can register through election day if you go directly to your city/township clerk office.)
 
 1. Download the [Michigan Voter Registration PDF](http://www.michigan.gov/documents/MIVoterRegistration_97046_7.pdf)
 2. Print and fill out the application (page 3)
