@@ -10,9 +10,9 @@ Your polling location, hours, and ballot information can all be found in one pla
 
 1. Go to <https://webapps.sos.state.mi.us/>.
 2. Fill out and submit one of the forms on that page to search for your voter information, by name or driver's license number
-3. Polling location and hours can be found in the "3/8/2016 Election Information" section. Your sample ballot can be viewed by clicking "View My Sample Ballot" in the "Election Calendar" section.
+3. Upcoming elections and associated ballot previews can be found in the "Election Calendar" section. Your polling location, hours, and contact information can be found in the "Election Information" section.
 
-*Don't forget to bring a valid photo ID when you go to vote.*
+*Remember to [bring a valid photo ID](https://www.michigan.gov/sos/0,4670,7-127-1633_8716-178123--,00.html) when you go to vote. But even if you forget, [**you can still vote by signing an affidavit**.](https://www.michigan.gov/sos/0,4670,7-127-1633_8716-178123--,00.html)*
 
 ---
 
