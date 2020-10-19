@@ -19,9 +19,9 @@ Choose your position on key issues and see which candidates agree with you:
 
 ## Can I vote for candidates in more than one party?
 
-In the primary (March 8), you can only vote for candidates in a single party. You can choose which party you want to vote for when you arrive at the polling location.
+In the primary (typically March), you can only vote for candidates in a single party. You can choose which party you want to vote for when you arrive at the polling location.
 
-In the general election (November 8), you can vote for candidates in any party.
+In the general election (typically first Tuesday in November), you can vote for candidates in any party.
 
 Source: <http://www.michigan.gov/sos/0,1607,7-127-29836-202497--F,00.html>
 
