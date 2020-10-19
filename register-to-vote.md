@@ -3,7 +3,7 @@ layout: page
 title: Register to Vote
 permalink: /register-to-vote/
 nav_position: 2
-description: The deadline to register online or by mail for the 2020 General Election is Monday, October 19, 2020. Same day registration is possible by visiting your city or township clerk's office.
+description: The deadline to register online or by mail is Monday, October 19, 2020. Same day registration is possible by visiting your city or township clerk's office.
 ---
 
 Register today to make sure you can vote in future elections!
