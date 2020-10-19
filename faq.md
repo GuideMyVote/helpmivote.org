@@ -19,7 +19,7 @@ Choose your position on key issues and see which candidates agree with you:
 
 ## Can I vote for candidates in more than one party?
 
-In the primary (typically March), you can only vote for candidates in a single party. You can choose which party you want to vote for when you arrive at the polling location.
+In the primary (typically March or August), you can only vote for candidates in a single party. You can choose which party you want to vote for when you arrive at the polling location.
 
 In the general election (typically first Tuesday in November), you can vote for candidates in any party.
 
