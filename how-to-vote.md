@@ -8,6 +8,8 @@ description: Information about where and how to vote in the upcoming Michigan el
 
 Your polling location, hours, and ballot information can all be found in one place on the Michigan Secretary of State's website:
 
+**The General Election is Tuesday, November 3, 2020.**
+
 1. Go to <https://mvic.sos.state.mi.us/Voter/Index>.
 2. Fill out and submit one of the forms on that page to search for your voter information, by name, driver's license number, address, or county.
 3. If you searched by name or driver's license number, the page will inform you whether or not you're registered to vote, and if you've applied for and when you were sent an absentee ballot.
