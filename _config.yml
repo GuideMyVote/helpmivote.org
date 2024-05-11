@@ -7,10 +7,10 @@
 
 # Site settings
 title: HelpMIVote.org
-email: bfrohs+helpmivote@gmail.com
+email: brandon@19.codes
 description: Voting guide for Michigan voters.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://helpmivote.org" # the base hostname & protocol for your site
+url: "https://helpmivote.org" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 baseFontFamily: mulish
