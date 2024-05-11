@@ -14,8 +14,8 @@ No. While many states require employers to give employees time off to vote, Mich
 
 Choose your position on key issues and see which candidates agree with you:
 
-- [ISideWith.com](http://www.isidewith.com/)
-- [Project Vote Smart / Vote Easy](https://votesmart.org/voteeasy/)
+- [ISideWith.com](https://www.isidewith.com/)
+- [Project Vote Smart / Vote Easy](https://justfacts.votesmart.org/about/voteeasy/)
 
 ## Can I vote for candidates in more than one party?
 
